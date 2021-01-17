@@ -19,9 +19,7 @@ Ocelot featured capabilities:
 #### Getting Started Video Tutorials
 **Note:** all video tutorials are hosted on Opacity Storage and can be previewed in your browser.
 
-1. **How to use Ocelot: Video 1:** [Basic Demo](https://www.opacity.io/share#handle=559fb992f07b0bbd141d3bf29ed684398b57615237ff111d7770b7644d435b8270297feade3212afe9ad60b0806351048a0ade76ce34d78bfd1f4ea29310f010) ~13 minutes.
-
-2. **How to use Ocelot: Video 2:** Advanced Demo, which includes technical discussion and configuration options (coming soon)
+1. **How to use Ocelot:** [Basic Demo](https://www.opacity.io/share#handle=559fb992f07b0bbd141d3bf29ed684398b57615237ff111d7770b7644d435b8270297feade3212afe9ad60b0806351048a0ade76ce34d78bfd1f4ea29310f010) ~13 minutes.
 
 ## Install Ocelot
 
