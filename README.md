@@ -19,12 +19,12 @@ Ocelot featured capabilities:
 #### Getting Started Video Tutorials
 **Note:** all video tutorials are hosted on Opacity Storage and can be previewed in your browser.
 
-1. **How to use Ocelot:** [Basic Demo](https://www.opacity.io/share#handle=559fb992f07b0bbd141d3bf29ed684398b57615237ff111d7770b7644d435b8270297feade3212afe9ad60b0806351048a0ade76ce34d78bfd1f4ea29310f010) ~13 minutes.
+1. **How to use Ocelot:** [Basic Demo](https://lbry.tv/@OcelotForOpacityStorage:6/How-to-use-ocelot:a) ~13 minutes.
 
 ## Install Ocelot
 
 #### Installation Video Tutorial
-* [4 minute video showing how to install and run Ocelot](https://www.opacity.io/share#handle=a8b6c931e051b444d2776a39e8a5258f0b4bf38e69b29a5df734b25139633efc567383b3258b20f621fc4faed6039eefa6a304bbb7817f7d260326a9b967f169)
+* [4 minute video showing how to install and run Ocelot](https://lbry.tv/@OcelotForOpacityStorage:6/Install-Ocelot:1)
 
 #### Installation Dependencies: Docker
 The Docker Engine and the Docker CLI client are required to be installed on your machine (Windows, Mac, Linux).
